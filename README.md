@@ -17,10 +17,6 @@ Proyek kecil ini dibuat untuk menyelesaikan kursus **Desain Web Responsif** dari
 
 Proyek "Noesis" ini merupakan bagian dari upaya untuk memenuhi persyaratan kursus Desain Web Responsif freeCodeCamp. Ini mencakup implementasi dasar menggunakan HTML dan CSS.
 
-## Logo Proyek
-
-Proyek ini menggunakan logo `noesis.svg`. Perlu diperhatikan bahwa logo ini memiliki warna gelap, sehingga mungkin lebih menonjol dengan latar belakang putih.
-
 ## Informasi Kursus
 
 Proyek ini dikembangkan sebagai bagian dari kurikulum responsive web design yang ditawarkan oleh **freeCodeCamp**.
